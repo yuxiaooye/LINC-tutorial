@@ -1,6 +1,8 @@
 [TOC]
 
 # HackMD 本身
+原文链接：https://hackmd.io/Aohp4vZ0QYGEkNsErb0S2Q
+
 水墨屏必须用浅色背景，可以在编辑器右下角找到画笔🖌图标，进行修改。对于LCD显示屏，直接更改回去即可。
 
 # 周期运行小工具
