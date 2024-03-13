@@ -1,5 +1,3 @@
-[TOC]
-
 # HackMD 本身
 原文链接：https://hackmd.io/Aohp4vZ0QYGEkNsErb0S2Q
 
